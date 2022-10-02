@@ -1,0 +1,21 @@
+
+
+.FooterLast_main{
+display: grid;
+grid-template-columns: repeat(6,1fr);
+margin-top: 50px;
+background-color: #f9f9f9
+}
+
+.FooterLast_box{
+    display: flex;
+    font-size: 13px;
+    background-color: #f9f9f9;
+    color: grey;
+    padding: 20px;
+}
+.FooterLast_box>p:hover{
+   cursor: pointer;
+   color: #00819D;
+   text-decoration: underline;
+}

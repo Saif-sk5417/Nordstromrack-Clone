@@ -1,0 +1,27 @@
+
+
+.MoreToKnow h1{
+    text-align: center;
+}
+
+.MoreToKnow_main{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    width: 95%;
+    margin: auto;
+}
+.MoreToKnow_main img{
+    width: 100%;
+}
+.PBold{
+    font-weight: bold;
+}
+.MoreToKnow_main_text{
+    width: 90%;
+    font-size: 15px;
+    line-height: 15px;
+    margin-left: -18px;
+}
+.MoreToKnow_main_text a{
+    margin-left: 18px;
+}

@@ -1,0 +1,28 @@
+
+
+
+.GetEmailUpdates{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 70px;
+    width: 98%;
+}
+.GetEmailUpdates input{
+    width: 250px;
+    height:25px;
+    margin-left: 20px;
+    padding: 5px;
+    font-size: 15px;
+}
+.GetEmailUpdates p{
+    font-size: small;
+}
+.GetEmailUpdates button{
+    width : 250px;
+    height:38px;
+    margin-left: 20px;
+    background-color: #00819D;
+    color: white;
+    font-size: 14px;
+    border: none;
+}

@@ -1,0 +1,37 @@
+body{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.each-slide {
+    width: 100%;
+    margin-top: 50px;
+  }
+  .each-slide>div {
+    width: 95%;
+    margin: auto;
+  }
+  .each-slide>div img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+.SlideShowText{
+  width: 650px;
+  margin-top: -105px;
+  line-height: 18px;
+  color: #393939;
+  text-align: left;
+  margin-left: -18px;
+}
+.SlideShowText_h1{
+  margin-left:-165px;
+}
+.SlideShowText div{
+  display: grid;
+ grid-template-columns: repeat(3,27%);
+}
+.SlideShowText div a{
+  color: #00819D;
+  margin-left: 20px;
+}
+
+

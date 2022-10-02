@@ -1,0 +1,22 @@
+
+.HeresToday h1{
+text-align: center;
+}
+
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 450px;
+    width: 92%;
+    margin: auto;
+  }
+  
+  p{
+    margin-left:20px;
+  }
+  .Pbold{
+    font-weight: bold;
+  }
+  

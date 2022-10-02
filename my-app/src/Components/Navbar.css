@@ -1,0 +1,59 @@
+
+
+
+.Navbar_Main{
+    width: 95%;
+    display: grid;
+    grid-template-columns: 20% 50% 15% 15%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.Navbar_head{
+    background-color: red;
+    color:white;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+}
+.Navbar_head a{
+    color: white;
+}
+.Navbar_Main input{
+    width : 80%;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+    padding: 5px 15px;
+}
+.logo_img{
+    width: 50%;
+    margin-top: 30px;
+}
+.Cart_img{
+    width: 100%;
+}
+.cart_box{
+    display: flex;
+    margin-left:250px
+}
+.Navbar_Button{
+    width: 80%;
+    display: block;
+    font-size: 15px;
+    padding: 10px 20px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: white;
+    border:0.5px solid #00819D;
+}
+.Navbar_Button:hover{
+   color: white;
+   background-color: #00819D;
+   cursor: pointer;
+}
+.Cart_img{
+    width:50%;
+}

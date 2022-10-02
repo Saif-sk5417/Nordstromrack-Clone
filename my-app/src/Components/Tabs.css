@@ -1,0 +1,28 @@
+
+.Tabs_Box{
+    width: 95%;
+    margin: auto;
+}
+.Tabs_Main{
+    display: flex;
+    justify-content: space-between;
+}
+.Tabs_Main>p:hover{
+    color: #D61F27;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.Tabs_Button{
+  display: block;
+  margin: auto;
+  border: 0.5px solid #00819D;
+  padding: 10px 20px;
+  font-size: 15px;
+  background-color: white;
+  color: #00819D;
+}
+.Tabs_Button:hover{
+    background-color: #00819D;
+    color: white;
+    cursor: pointer;
+}

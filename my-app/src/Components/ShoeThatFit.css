@@ -1,0 +1,25 @@
+ #ShoeThatFit_each-slide{
+  display: flex;
+  width: 98%;
+  height: 400px;
+  margin: auto;
+}
+
+#ShoeThatFit_each-slide>div {
+  width: 100%;
+}
+
+#ShoeThatFit_each-slide>div img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+#ShoeThatFit_each-slide_secondtext{
+  width: 600px;
+  line-height: 13px;
+  margin-left: 730px;
+  margin-top: -160px;
+}
+#ShoeThatFit_each-slide_secondtext a{
+  margin-left: 20px;
+}

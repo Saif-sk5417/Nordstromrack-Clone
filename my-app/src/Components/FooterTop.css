@@ -1,0 +1,21 @@
+
+
+
+.FooterTop {
+    width: 95%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.FooterTop img{
+    width: 1289px;
+    height: 145px;
+}
+.FooterTop p{
+    text-align: center;
+   margin-top: -50px;
+   color: white;
+}
+.FooterTop a{
+    color: white;
+}

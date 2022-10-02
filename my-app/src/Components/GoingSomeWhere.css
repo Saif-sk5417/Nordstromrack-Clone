@@ -1,0 +1,24 @@
+
+
+.GoinSomeWhere{
+display: flex;
+justify-content: space-between;
+width:90%;
+margin: auto;
+}
+h1{
+    text-align: center;
+}
+.GoinSomeWhere img{
+    width:415px;
+    height: 430px;
+}
+.GoinSomeWhere_text{
+    margin-left: -18px;
+}
+.GoinSomeWhere_text a{
+    margin-left: 18px;
+}
+#PBold{
+    font-weight: bold;
+}

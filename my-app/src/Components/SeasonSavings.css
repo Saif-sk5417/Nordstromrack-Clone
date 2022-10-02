@@ -1,0 +1,34 @@
+
+
+
+.SeasonSavings_main{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  margin: auto;
+  width: 95%;
+}
+.SeasonSavings_main  img {
+    width:100%;
+}
+.SeasonSavings h1{
+   text-align: center;
+}
+.SeasonSavings_box{
+    margin-top: -8px;
+    margin-left: -18px;
+}
+#head{
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 10px;
+    color: #393939;
+   }
+.SeasonSavings_box p{
+    font-size: 15px;
+    line-height: 10px;
+    color: #393939;
+  }
+  .SeasonSavings_box a{
+    color: #00819D;
+    margin-left: 19px;
+  }
