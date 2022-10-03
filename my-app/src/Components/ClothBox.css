@@ -1,0 +1,11 @@
+
+
+
+.ClothBox{
+    line-height: 15px;
+    font-size: 12px;
+    margin-top: -150px;
+}
+.ClothBox :nth-child(2){
+    color: red;
+}

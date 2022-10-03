@@ -12,17 +12,23 @@ import FooterLast from './Components/FooterLast'
 import Tabs from './Components/Tabs';
 import Navbar from './Components/Nvabar';
 import ClothBox from './Components/ClothBox'
+import Brands from './Components/Brands';
+import TrendingNow from './Components/TrendingNow'
+import BestSelling from './Components/BestSelling';
 function App() {
   return (
     <div className="App">
       <Navbar />
       <Tabs />
    <SlideShow1 />
+   <Brands />
    <HeresToday />
    <SlideShow2 />
    <SeasonSavings />
+   <TrendingNow />
    <ShoeThatFit />
    <GoingSomeWhere />
+   <BestSelling />
    <MoreToKnow />
    <RackYourLook />
    <FooterTop />

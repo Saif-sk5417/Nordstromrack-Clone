@@ -1,6 +1,14 @@
  const images = [
-       "https://n.nordstrommedia.com/id/3ed9b826-acf3-41ac-8e7d-c5100bb1ee89.jpeg?h=200&w=1334" ,
-       "https://n.nordstrommedia.com/id/c95fb04f-ef69-4dfd-a4ee-75e51ae5f4fa.jpeg?h=200&w=1608"
+   "https://n.nordstrommedia.com/id/sr3/6bb77933-11a3-4b73-a01a-5febcfc9e523.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266"
+   "https://n.nordstrommedia.com/id/sr3/9b82428d-0dbd-4727-a014-3c3f11ebd5b8.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266",
+   "https://n.nordstrommedia.com/id/sr3/c296dba6-535d-4ab3-95ea-67e12208f7d0.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266",
+   "https://n.nordstrommedia.com/id/sr3/327d15ba-44e6-465e-a662-ece9c4b0e8dd.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266",
+   "https://n.nordstrommedia.com/id/sr3/eb7f833d-6ce0-4f3d-8e65-3a87a889dcd8.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266",
+   "https://n.nordstrommedia.com/id/sr3/31436b25-885f-4008-85cf-910e12c9c23c.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266",
+   "https://n.nordstrommedia.com/id/sr3/ec14e5ee-e30b-4270-b0e9-74677f569276.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266",
+   "https://n.nordstrommedia.com/id/sr3/7a5c452e-c2c0-4f66-a5c9-57ddb463ff64.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266",
+   "https://n.nordstrommedia.com/id/sr3/4decc746-7706-4f7b-b904-923122a515dc.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266",
+   "https://n.nordstrommedia.com/id/sr3/f8712d0f-a0b2-4c0a-bf58-80ab499ca16f.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266"
     ];
 
 
@@ -12,3 +20,37 @@
                 <p>properly fitting Nike shoes so they can run, play and thrive this school year</p>
                 <a href="https://www.nordstromrack.com/promo/shoes-that-fit">Learn More About Shoes That Fit</a>
             </div>
+
+
+
+
+
+
+
+"https://n.nordstrommedia.com/id/sr3/6f1fde5b-e59f-…-aa8a-5f0b7940e857.jpeg?q=45&dpr=2&h=365.31&w=230",
+"https://n.nordstrommedia.com/id/sr3/929456a3-dcf8-…-ad04-f54411950eb5.jpeg?q=45&dpr=2&h=365.31&w=230",
+"https://n.nordstrommedia.com/id/sr3/8ae0a64c-fa54-…-9084-75dae1c0a3f7.jpeg?q=45&dpr=2&h=365.31&w=230",
+"https://n.nordstrommedia.com/id/sr3/f62f2dcb-96b9-4648-a0ac-6a6250bf776c.jpeg?q=45&dpr=2&h=365.31&w=230",
+"https://n.nordstrommedia.com/id/sr3/9ec26f57-b5fc-…-a7b9-7f5de131897c.jpeg?q=45&dpr=2&h=365.31&w=230",
+"https://n.nordstrommedia.com/id/sr3/abe0f760-0902-…-a70f-8565626adb7a.jpeg?q=45&dpr=2&h=365.31&w=230",
+"https://n.nordstrommedia.com/id/sr3/15c0a098-a3f1-…-8149-b316901b25a5.jpeg?q=45&dpr=2&h=365.31&w=230",
+"https://n.nordstrommedia.com/id/sr3/a269bbc8-00c7-…-b1bb-bef72c360e15.jpeg?q=45&dpr=2&h=365.31&w=230",
+"https://n.nordstrommedia.com/id/sr3/a269bbc8-00c7-…-b1bb-bef72c360e15.jpeg?q=45&dpr=2&h=365.31&w=230",
+"https://n.nordstrommedia.com/id/sr3/5d8f9956-d7e9-…-8693-6807cec4199b.jpeg?q=45&dpr=2&h=365.31&w=230",
+"",
+"",
+
+
+
+
+
+"https://n.nordstrommedia.com/id/sr3/6f1fde5b-e59f-448a-aa8a-5f0b7940e857.jpeg?q=45&dpr=2&h=365.31&w=230",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
